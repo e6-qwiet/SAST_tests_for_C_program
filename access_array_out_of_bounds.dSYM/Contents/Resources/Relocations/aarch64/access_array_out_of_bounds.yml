@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     access_array_out_of_bounds
+relocations:     []
+...

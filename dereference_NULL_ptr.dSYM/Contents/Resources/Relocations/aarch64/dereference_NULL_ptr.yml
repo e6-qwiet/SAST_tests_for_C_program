@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     dereference_NULL_ptr
+relocations:     []
+...
